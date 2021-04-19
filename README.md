@@ -9,15 +9,15 @@
 
 # Using Linear Regression:
 ```
-Model Score: 73.7% Accuracy
-Training Accuracy: 74.7% Accuracy
-Testing Accuracy: 72.2% Accuracy
+Model Score: 73.7% Accuracy.
+Training Accuracy: 74.7% Accuracy.
+Testing Accuracy: 72.2% Accuracy.
 ```
 
 # Using Random Forest Regressor:
 ```
 Training Accuracy: 99.99% Accuracy.
-Testing Accuracy: 99.94% Accuracy
+Testing Accuracy: 99.94% Accuracy.
 ```
 # Summary:
 
